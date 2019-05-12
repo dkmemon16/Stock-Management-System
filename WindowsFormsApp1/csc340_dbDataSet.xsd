@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="csc340_dbDataSet" targetNamespace="http://tempuri.org/csc340_dbDataSet.xsd" xmlns:mstns="http://tempuri.org/csc340_dbDataSet.xsd" xmlns="http://tempuri.org/csc340_dbDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="csc340_dbConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="csc340_dbConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.StockManagement.Properties.Settings.GlobalReference.Default.csc340_dbConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="cole_creditcardTableAdapter" GeneratorDataComponentClassName="cole_creditcardTableAdapter" Name="cole_creditcard" UserDataComponentName="cole_creditcardTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="csc340_dbConnectionString (Settings)" DbObjectName="csc340_db.cole_creditcard" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `num`, `cardname`, `expires`, `accID` FROM `cole_creditcard`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="cole_p_purchaseTableAdapter" GeneratorDataComponentClassName="cole_p_purchaseTableAdapter" Name="cole_p_purchase" UserDataComponentName="cole_p_purchaseTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="csc340_dbConnectionString (Settings)" DbObjectName="csc340_db.cole_p_purchase" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `orderNum`, `confirmed`, `item`, `deliveryDate`, `orderStatus`, `deliveredBy`, `orderedBy` FROM `cole_p_purchase`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="cole_useraccountTableAdapter" GeneratorDataComponentClassName="cole_useraccountTableAdapter" Name="cole_useraccount" UserDataComponentName="cole_useraccountTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="csc340_dbConnectionString (Settings)" DbObjectName="csc340_db.cole_useraccount" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `accId`, `email`, `firstName`, `lastName`, `accPassword`, `addressln1`, `addressln2`, `city`, `state`, `zip`, `phoneNum` FROM `cole_useraccount`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="csc340_dbDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="csc340_dbDataSet" msprop:Generator_UserDSName="csc340_dbDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="cole_creditcard" msprop:Generator_TableClassName="cole_creditcardDataTable" msprop:Generator_TableVarName="tablecole_creditcard" msprop:Generator_TablePropName="cole_creditcard" msprop:Generator_RowDeletingName="cole_creditcardRowDeleting" msprop:Generator_RowChangingName="cole_creditcardRowChanging" msprop:Generator_RowEvHandlerName="cole_creditcardRowChangeEventHandler" msprop:Generator_RowDeletedName="cole_creditcardRowDeleted" msprop:Generator_UserTableName="cole_creditcard" msprop:Generator_RowChangedName="cole_creditcardRowChanged" msprop:Generator_RowEvArgName="cole_creditcardRowChangeEvent" msprop:Generator_RowClassName="cole_creditcardRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="cole_p_purchase" msprop:Generator_TableClassName="cole_p_purchaseDataTable" msprop:Generator_TableVarName="tablecole_p_purchase" msprop:Generator_TablePropName="cole_p_purchase" msprop:Generator_RowDeletingName="cole_p_purchaseRowDeleting" msprop:Generator_RowChangingName="cole_p_purchaseRowChanging" msprop:Generator_RowEvHandlerName="cole_p_purchaseRowChangeEventHandler" msprop:Generator_RowDeletedName="cole_p_purchaseRowDeleted" msprop:Generator_UserTableName="cole_p_purchase" msprop:Generator_RowChangedName="cole_p_purchaseRowChanged" msprop:Generator_RowEvArgName="cole_p_purchaseRowChangeEvent" msprop:Generator_RowClassName="cole_p_purchaseRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="cole_useraccount" msprop:Generator_TableClassName="cole_useraccountDataTable" msprop:Generator_TableVarName="tablecole_useraccount" msprop:Generator_TablePropName="cole_useraccount" msprop:Generator_RowDeletingName="cole_useraccountRowDeleting" msprop:Generator_RowChangingName="cole_useraccountRowChanging" msprop:Generator_RowEvHandlerName="cole_useraccountRowChangeEventHandler" msprop:Generator_RowDeletedName="cole_useraccountRowDeleted" msprop:Generator_UserTableName="cole_useraccount" msprop:Generator_RowChangedName="cole_useraccountRowChanged" msprop:Generator_RowEvArgName="cole_useraccountRowChangeEvent" msprop:Generator_RowClassName="cole_useraccountRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

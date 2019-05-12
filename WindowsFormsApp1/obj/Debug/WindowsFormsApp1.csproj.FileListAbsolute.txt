@@ -1,0 +1,83 @@
+W:\CSC 340\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+W:\CSC 340\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+W:\CSC 340\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+W:\CSC 340\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+W:\CSC 340\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+W:\CSC 340\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+W:\CSC 340\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+W:\CSC 340\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+W:\CSC 340\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+W:\CSC 340\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\College 2018-2019\CSC 340\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\College 2018-2019\CSC 340\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\College 2018-2019\CSC 340\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\College 2018-2019\CSC 340\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\College 2018-2019\CSC 340\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainMenu.resources
+E:\College 2018-2019\CSC 340\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+E:\College 2018-2019\CSC 340\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\College 2018-2019\CSC 340\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\College 2018-2019\CSC 340\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\College 2018-2019\CSC 340\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\College 2018-2019\CSC 340\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\College 2018-2019\CSC 340\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+E:\College 2018-2019\CSC 340\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+E:\College 2018-2019\CSC 340\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+E:\College 2018-2019\CSC 340\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+E:\College 2018-2019\CSC 340\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+E:\College 2018-2019\CSC 340\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.customerInput.resources
+E:\College 2018-2019\CSC 340\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\College 2018-2019\CSC 340\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditStockvolume.resources
+E:\College 2018-2019\CSC 340\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listStock.resources
+E:\College 2018-2019\CSC 340\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.changeOrderStatus.resources
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BusinessVolume.resources
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.changeOrderStatus.resources
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.customerInput.resources
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditStockvolume.resources
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listStock.resources
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainMenu.resources
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AssignSTaff.resources
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditItems.resources
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditStaff.resources
+C:\Users\Cole\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchSupplier.resources
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AssignSTaff.resources
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BusinessVolume.resources
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.changeOrderStatus.resources
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.customerInput.resources
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditItems.resources
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditStaff.resources
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditStockvolume.resources
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listStock.resources
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchSupplier.resources
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Danial Memon\Downloads\NoSearchSupplier2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
